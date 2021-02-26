@@ -54,3 +54,9 @@ To burn a scale bar into an image, use this command:
 ```java
 run("Scale Bar...", "width=100 height=20 font=40 color=Blue background=None location=[Lower Right] bold");
 ```
+## Binning and Resolution
+&nbsp; | Resolution |
+---|---|
+**Binning 1** | 2688 x 2200 |
+**Binning 2** | 1344 x 1100 |
+**Binning 3** | 672 x 550 |
